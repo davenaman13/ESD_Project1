@@ -1,5 +1,6 @@
 package com.namandave.yummyapp.configuration;
 
+import com.namandave.yummyapp.service.ProductService;
 import com.namandave.yummyapp.helper.RequestInterceptor;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
